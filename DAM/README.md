@@ -20,7 +20,7 @@ Para ejecutar la aplicación, debes ejecutar el comando `docker compose up` desd
 
 Para iniciar el proyecto de Angular/Ionic, ejecuta el comando `ng serve` en el directorio `'app-fullstack-base-2022-i07/src/frontend/dam'`.
 
-Nota: En algunas ocasiones, es posible que necesites usar privilegios de superusuario con `sudo ng serve`.
+Nota importante: si da un error por la instalación de Angular se debe ejecutar el comando `sudo npm install`. En algunas ocasiones, es posible que necesites usar privilegios de superusuario con `sudo ng serve`.
 
 Para acceder al cliente web, abre la URL [http://localhost:4200/home](http://localhost:4200/home) en tu navegador.
 
