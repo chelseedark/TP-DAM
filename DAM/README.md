@@ -31,7 +31,7 @@ Si puedes acceder tanto al cliente web como al administrador, significa que la a
 ### Pantallas de la aplicación
 
 Pantalla principal:
-![Home](/images/home1.png)
+![Home](images/home1.png)
 ![Home Listado](/images/home2.png)
 
 El listado de sensores se muestra y oculta según la interacción con los botones respectivos.
