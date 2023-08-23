@@ -32,18 +32,18 @@ Si puedes acceder tanto al cliente web como al administrador, significa que la a
 
 Pantalla principal:
 ![Home](images/home1.png)
-![Home Listado](/images/home2.png)
+![Home Listado](images/home2.png)
 
 El listado de sensores se muestra y oculta según la interacción con los botones respectivos.
 
 Pantalla de sensores:
-![Sensor](/images/detalle-galga.png)
+![Sensor](images/detalle-galga.png)
 
 Pantalla de mediciones:
-![Mediciones](/images/detalle-mediciones.png)
+![Mediciones](images/detalle-mediciones.png)
 
 Pantalla de registros de riego:
-![Registros de riego](/images/detalle-logs.png)
+![Registros de riego](images/detalle-logs.png)
 
 ### Requerimientos de la aplicación
 
